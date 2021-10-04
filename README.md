@@ -1,3 +1,3 @@
-Let it go without a bang
+Let it go (Without a bang)
 
 - Proyecto Innovación

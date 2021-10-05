@@ -32,7 +32,17 @@ https://user-images.githubusercontent.com/91856549/136071344-90724709-464a-4025-
 
 
 Para más información sobre el diseño ver los videos y pdf del diseño
-Se uso Azure por primera vez utilizando la herramienta de rending romote y la creación de una pagina web. 
+se uso Azure por primera vez utilizando la herramienta de rending romote y la creación de una pagina web.
+
+![azure-wordpress-900x538](https://user-images.githubusercontent.com/91856549/136071458-bddaf8db-5c12-4016-ae83-59075c4b362d.jpg)
+
+![unknown5](https://user-images.githubusercontent.com/91856549/136071500-06f15e31-7076-45c3-a869-42c6b2c491fe.png)
+
+Azure Remte Rendering
+
+![unknown6](https://user-images.githubusercontent.com/91856549/136071733-f80ea99c-9cf2-4e78-8f9a-b333214aa1d4.png)
+
+
  Para más información ver pdf uso de azure
  
 Se anexa pagina web de azure para información general del equipo y proyecto 

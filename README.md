@@ -18,5 +18,6 @@ El dispositivo permite el bloqueo de un eje dentro de este, contando con una ran
 Para más información sobre el diseño ver los videos y pdf del diseño
 Se uso Azure por primera vez utilizando la herramienta de rending romote y la creación de una pagina web. 
  Para más información ver pdf uso de azure
+ 
 Se anexa pagina web de azure para información general del equipo y proyecto 
 https://quickdisconectiondevice.azurewebsites.net/

@@ -42,6 +42,13 @@ Azure Remte Rendering
 
 ![unknown6](https://user-images.githubusercontent.com/91856549/136071733-f80ea99c-9cf2-4e78-8f9a-b333214aa1d4.png)
 
+Nuestro Tik tok
+
+https://vm.tiktok.com/ZMRKWjxCD/
+
+Nuestro Video de Explicacion
+
+https://drive.google.com/file/d/1vHmaDLrVomdKbs3CYwL-HBintlOlXkII/view?usp=sharing
 
  Para más información ver pdf uso de azure
  

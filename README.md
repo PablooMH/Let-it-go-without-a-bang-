@@ -21,3 +21,4 @@ Se uso Azure por primera vez utilizando la herramienta de rending romote y la cr
  
 Se anexa pagina web de azure para información general del equipo y proyecto 
 https://quickdisconectiondevice.azurewebsites.net/
+![unknown2](https://user-images.githubusercontent.com/91856549/136056431-2fedd90d-5d53-4d56-9898-7ea2cda67619.png)

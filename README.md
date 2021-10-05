@@ -24,6 +24,11 @@ El dispositivo permite el bloqueo de un eje dentro de este, contando con una ran
 
 https://user-images.githubusercontent.com/91856549/136071099-5a5d471e-9d62-4513-b4c2-5950c9411281.mp4
 
+ 
+
+https://user-images.githubusercontent.com/91856549/136071344-90724709-464a-4025-bfd8-15e9572b7935.mp4
+
+
 
 
 Para más información sobre el diseño ver los videos y pdf del diseño
